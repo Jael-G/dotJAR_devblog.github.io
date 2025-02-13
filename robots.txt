@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://jaelopr.github.io/engineerstudent.github.io/sitemap.xml
+Sitemap: https://jael-g.github.io/dotJAR_devblog.github.io/sitemap.xml
