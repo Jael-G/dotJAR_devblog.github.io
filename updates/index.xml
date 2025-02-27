@@ -6,8 +6,15 @@
     <description>Recent content in Updates on dotJAR - Development Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Feb 2025 20:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 14:00:25 +0000</lastBuildDate>
     <atom:link href="https://jael-g.github.io/dotJAR_devblog.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reworking Meetings</title>
+      <link>https://jael-g.github.io/dotJAR_devblog.github.io/reworking-meetings/</link>
+      <pubDate>Thu, 27 Feb 2025 14:00:25 +0000</pubDate>
+      <guid>https://jael-g.github.io/dotJAR_devblog.github.io/reworking-meetings/</guid>
+      <description>&lt;div id=&#34;update-title&#34;&gt;&#xA;  &lt;ul align=&#34;center&#34;&gt;&#xA;      &lt;h1&gt;Reworking Meetings Format&lt;/h1&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Last week the team finish and submitted the proposal report.&lt;/p&gt;&#xA;&lt;p&gt;As per requirement from the course, a new structure for meetings will be implemented. The formating is the following:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Meeting Summary&#xA;Date: [MM/DD/YYYY]&#xA;Time: [Start - End]&#xA;Location: [Physical/Virtual]&#xA;&#xA;Attendees&#xA;[Name 1], [Name 2], [Name 3], etc.&#xA;Agenda &amp;amp; Discussion&#xA;[Agenda Item 1] – [Key points, decisions, action items]&#xA;[Agenda Item 2] – [Key points, decisions, action items]&#xA;[Agenda Item 3] – [Key points, decisions, action items]&#xA;Action Items&#xA;Task&#x9;Owner&#x9;Deadline&#xA;[Task 1]&#x9;[Person 1]&#x9;[MM/DD/YYYY]&#xA;[Task 2]&#x9;[Person 2]&#x9;[MM/DD/YYYY]&#xA;Next Meeting&#xA;Date/Time: [MM/DD/YYYY, HH:MM]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Given that the team has &lt;strong&gt;daily&lt;/strong&gt; meetings, the &lt;code&gt;updates&lt;/code&gt; of the blog will be uploaded daily.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Working the Proposal</title>
       <link>https://jael-g.github.io/dotJAR_devblog.github.io/working-the-proposal/</link>
