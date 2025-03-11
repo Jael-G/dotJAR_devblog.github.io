@@ -6,8 +6,22 @@
     <description>Recent content in dotJAR Development Blog on dotJAR - Development Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Feb 2025 11:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 14:00:44 +0000</lastBuildDate>
     <atom:link href="https://jael-g.github.io/dotJAR_devblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Progress and Presentation</title>
+      <link>https://jael-g.github.io/dotJAR_devblog.github.io/progress-and-presentation/</link>
+      <pubDate>Sun, 09 Mar 2025 14:00:44 +0000</pubDate>
+      <guid>https://jael-g.github.io/dotJAR_devblog.github.io/progress-and-presentation/</guid>
+      <description>&lt;div id=&#34;update-title&#34;&gt;&#xA;  &lt;ul align=&#34;center&#34;&gt;&#xA;      &lt;h1&gt;Progress, Report and Presentaiton&lt;/h1&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;meeting-summary&#34;&gt;Meeting Summary&lt;/h2&gt;&#xA;&lt;p&gt;In this meeting multiple updates were given and reported, as well as continuing to work in the progress report 1 and its presentaiton.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;All the tasks related to the front-end were completed, including wireframes, a site map, and the componenets to be used. Development of the HTML and CSS implenention was about to start.&lt;/li&gt;&#xA;&lt;li&gt;The tasks related to the database were completed, a schema of the tables and the Entety Relation Diagram were completed.&lt;/li&gt;&#xA;&lt;li&gt;The front end was reported to be behind. This was hugely due to technical debt, in other words, the amount of time required to develop expertise in this area was longer than expected, and thus the design for route and controllers was behind.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Other than this, the members continued to work on the progress report and the presentation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Client Meeting</title>
+      <link>https://jael-g.github.io/dotJAR_devblog.github.io/client-meeting/</link>
+      <pubDate>Fri, 07 Mar 2025 09:19:38 +0000</pubDate>
+      <guid>https://jael-g.github.io/dotJAR_devblog.github.io/client-meeting/</guid>
+      <description>&lt;div id=&#34;update-title&#34;&gt;&#xA;  &lt;ul align=&#34;center&#34;&gt;&#xA;      &lt;h1&gt;Client Meeting&lt;/h1&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;h2 id=&#34;meeting-summary&#34;&gt;Meeting Summary&lt;/h2&gt;&#xA;&lt;p&gt;Every thursday the team members have a meeting with the clients regarding updates and status, particularly important information was discusssed in this meeting:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The wireframes were shown to the client&lt;/li&gt;&#xA;&lt;li&gt;The client provided information on the tools, in this case specifically kits and libraries, used for the&#xA;integration of the authentication used in UPRM.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;meeting-schedule&#34;&gt;Meeting Schedule&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Date: [03/07/2025]&lt;/li&gt;&#xA;&lt;li&gt;Time: 10:30am - 12pm&lt;/li&gt;&#xA;&lt;li&gt;Location: In Person, CTI office&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;attendees&#34;&gt;Attendees&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Angel Aquino&lt;/li&gt;&#xA;&lt;li&gt;Jael Gonzalez&lt;/li&gt;&#xA;&lt;li&gt;Ramon Rosario&lt;/li&gt;&#xA;&lt;li&gt;Martin Menendex&lt;/li&gt;&#xA;&lt;li&gt;Andres Rosado&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;agenda--discussion&#34;&gt;Agenda &amp;amp; Discussion&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The addition of letter generation -&amp;gt; It was determined the platform will include a system to automatically generate (using a template) the approval cards for associations.&lt;/li&gt;&#xA;&lt;li&gt;Two new dependices -&amp;gt; It was determined that the laravel\breeze kit will be used for scaffol and socialiteprovider\saml2 will be used for SAML2 integration.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;next-meeting&#34;&gt;Next Meeting&lt;/h2&gt;&#xA;&lt;p&gt;Date: 03/09/2025&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Latest Meetings</title>
       <link>https://jael-g.github.io/dotJAR_devblog.github.io/latest-meetings/</link>
